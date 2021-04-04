@@ -1,5 +1,8 @@
 ## Hey there, I'm Vinay Kumar! 👋
 
+<a href="https://vk46.github.io/">
+  <img alt="Vinay's Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/v.svg" />
+</a> &nbsp;
 <a href="https://twitter.com/vk_t46">
   <img alt="Vinay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> &nbsp;
