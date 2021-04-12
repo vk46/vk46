@@ -22,7 +22,6 @@
 <br/>
 
 - 🔭 I’m currently working an Full-Stack Engineer.
-- 🌱 I’m currently learning Spring Security.
 
 **Languages and Tools:**  
 
