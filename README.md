@@ -11,12 +11,6 @@
 </a> &nbsp;
 <a href="https://stackoverflow.com/users/15548885/vk46">
   <img alt="Vinay's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
-</a> &nbsp;
-<a href="https://www.facebook.com/vk.f46/">
-  <img alt="Vinay's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>  &nbsp;
-<a href="https://www.instagram.com/imvk46/">
-  <img alt="Vinay's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br/>
 <br/>
