@@ -15,7 +15,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working as a Full-Stack Engineer.
+- 👨‍💻 I’m currently working as a Full-Stack Engineer.
 
 **Languages and Tools:**  
 
