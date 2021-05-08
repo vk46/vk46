@@ -23,5 +23,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vk46&theme=light&count_private=true&layout=compact" alt="Vinay's most used languages" />
 </a>
 <a href="https://github.com/vk46">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vk46&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues" alt="Vinay's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vk46&show_icons=true&theme=light&line_height=26&include_all_commits=true&count_private=true&hide=issues" alt="Vinay's github stats"/>
 </a>
