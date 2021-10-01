@@ -1,8 +1,8 @@
 <h1>Hi There, I am <a  href="https://vk46.github.io/" target="_blank">Vinay Kumar</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I’m Vinay Kumar, currently residency in Bangalore. I have been working as a Software Developer for over 5 years since graduated (B.Tech) from JNTU, Hyderabad in the year 2015. And as a software developer I've racked up experience of a wide variety of application development especially in web technologies. I have failed too many times to count. And my goal is to become a Professional Full-Stack Developer and grow to be a **Software Architect**.
+I have been working as a Software Developer for over five years since graduated (B.Tech) from JNTU, Hyderabad in the year 2015. And as a software developer I've racked up experience of a wide variety of application development especially in web technologies. I have failed too many times to count. And my goal is to become a Professional Full-Stack Developer and grow to be a **Software Architect**.
 
-## Skill Set :
+## Skills :
 
 **Programming Languages**
 
@@ -19,15 +19,10 @@ I’m Vinay Kumar, currently residency in Bangalore. I have been working as a So
 <img title="STS" alt="STS" width="50px" src="https://spring.io/images/logo-spring-tools-gear-3dbfa4e3714afa9d58885422ec7ac8e5.svg">|<img title="MySQL Workbench" alt="MySQLWorkbench" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4SRoFvNsv-_Xl30fbCnMGDBLZsLq9Av5__1qpv4fsYayIQqvn6-_CiKehwbfZqYNFXG8&usqp=CAU">|<img title="VS Code" alt="VS Code" width="50px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Postman" alt="Postman" width="50px" src="https://covirtnetworking.com/wp-content/uploads/2017/09/postman-e1505276579767.png">|<img title="Stackoverflow" alt="stackoverflow" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/stackoverflow/stackoverflow.png">|<img title="Apache Software" alt="Apache" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/maven/maven.png">
 |--|--|--|--|--|--|--|
 
-**Databases**
+**Databases & Cloud**
 
-<img title="MySQL" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png">|<img title="MongoDB" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"> <br>
-|--|--|
-
-**Cloud**
-
-<img title="AWS" alt="AWS" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png">|
-|--|
+<img title="MySQL" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png">|<img title="MongoDB" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">|<img title="AWS" alt="AWS" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png">
+|--|--|--|
 
 ## Stats :
 
