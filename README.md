@@ -6,8 +6,8 @@ I have been working as a Software Developer for over five years since graduated 
 
 **Programming Languages**
 
-<img title="Java" alt="Java" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />|<img alt="JS" title="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
-|--|--|
+<img title="Java" alt="Java" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />|<img alt="JS" title="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="TS" title="TypeScript" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png">
+|--|--|--|
 
 **Libraries and Frameworks**
 
