@@ -27,7 +27,7 @@ I have been working as a Software Developer for over five years since graduated 
 ## Stats :
 
 <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=vk46&show_icons=true&theme=light&line_height=26&include_all_commits=true&count_private=true&hide=issues" alt="Vinay's github stats"/>
-</a><br>
+</a><br><br>
 <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vk46&theme=light&count_private=true&layout=compact" alt="Vinay's most used languages"/>
 </a><br><br>
 <img align="center" src = "https://activity-graph.herokuapp.com/graph?username=vk46&theme=rogue" width = 650>
