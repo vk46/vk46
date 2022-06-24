@@ -19,10 +19,15 @@ I have been working as a Software Developer for over five years since graduated 
 <img title="STS" alt="STS" width="50px" src="https://spring.io/images/logo-spring-tools-gear-3dbfa4e3714afa9d58885422ec7ac8e5.svg">|<img title="MySQL Workbench" alt="MySQLWorkbench" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4SRoFvNsv-_Xl30fbCnMGDBLZsLq9Av5__1qpv4fsYayIQqvn6-_CiKehwbfZqYNFXG8&usqp=CAU">|<img title="VS Code" alt="VS Code" width="50px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Postman" alt="Postman" width="50px" src="https://covirtnetworking.com/wp-content/uploads/2017/09/postman-e1505276579767.png">|<img title="Stackoverflow" alt="stackoverflow" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/stackoverflow/stackoverflow.png">|<img title="Apache Software" alt="Apache" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/maven/maven.png">
 |--|--|--|--|--|--|--|
 
-**Databases & Cloud**
+**Databases**
 
-<img title="MySQL" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png">|<img title="MongoDB" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">|<img title="AWS" alt="AWS" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png">
-|--|--|--|
+<img title="MySQL" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png">|<img title="MongoDB" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">
+|--|--|
+
+**Cloud**
+
+<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|<img title="Heroku" alt="Heroku" width="40px" src="https://img.icons8.com/color/48/000000/heroku.png">
+|--|--|
 
 ## Stats :
 
@@ -30,4 +35,5 @@ I have been working as a Software Developer for over five years since graduated 
 </a><br><br>
 <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vk46&theme=light&count_private=true&layout=compact" alt="Vinay's most used languages"/>
 </a><br><br>
-<img align="center" src = "https://activity-graph.herokuapp.com/graph?username=vk46&theme=rogue" width = 650>
+<img align="center" src = "https://activity-graph.herokuapp.com/graph?username=vk46&theme=rogue" width = 650><br><br>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=vk46.vk46)
