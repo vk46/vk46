@@ -1,33 +1,11 @@
-<h1>Hi There, I am <a  href="https://vk46.github.io/" target="_blank">Vinay Kumar</a></h1>
+<h1>Hi there, I am <a  href="https://vk46.github.io/" target="_blank">Vinay Kumar Palla</a></h1>
 
-I have been working as a Software Developer for over six years since graduated (B.Tech) from JNTU, Hyderabad in the year 2015. And as a software developer I've racked up experience of a wide variety of application development especially in web technologies. I have failed too many times to count. And my goal is to become a Professional Full-Stack Developer and grow to be a **Software Architect**.
+Successful Java Full Stack Developer offering 6+ years of experience in demanding environments focused on producing cutting-edge designs for customer-oriented applications.
 
-## Skills :
-
-**Programming Languages**
-
-<img title="Java" alt="Java" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />|<img alt="JS" title="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="TS" title="TypeScript" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png">
-|--|--|--|
-
-**Libraries and Frameworks**
-
-<img title="Spring" alt="Spring" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring/spring.png">|<img title="Hibernate" alt="Hibernate" width="50px" src="https://hibernate.org/images/hibernate-logo.svg">|<img title="HTML 5" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png">|<img title="CSS 3" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">|<img title="jQuery" alt="jQuery" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">|<img title="Bootstrap UI" alt="Bootstrap UI" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png">|<img title="Material UI" alt="Material UI" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/material-design/material-design.png">|<img title="Angular" alt="Angular" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png">|<img title="Apache Cordova" alt="Cordova" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/cordova/cordova.png">|
-|--|--|--|--|--|--|--|--|--|
-
-**Tools**
-
-<img title="STS" alt="STS" width="50px" src="https://spring.io/images/logo-spring-tools-gear-3dbfa4e3714afa9d58885422ec7ac8e5.svg">|<img title="MySQL Workbench" alt="MySQLWorkbench" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4SRoFvNsv-_Xl30fbCnMGDBLZsLq9Av5__1qpv4fsYayIQqvn6-_CiKehwbfZqYNFXG8&usqp=CAU">|<img title="VS Code" alt="VS Code" width="50px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Postman" alt="Postman" width="50px" src="https://covirtnetworking.com/wp-content/uploads/2017/09/postman-e1505276579767.png">|<img title="Stackoverflow" alt="stackoverflow" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/stackoverflow/stackoverflow.png">|<img title="Apache Software" alt="Apache" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/maven/maven.png">
-|--|--|--|--|--|--|--|
-
-**Databases**
-
-<img title="MySQL" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png">|<img title="MongoDB" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">
-|--|--|
-
-**Cloud**
-
-<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|<img title="Heroku" alt="Heroku" width="40px" src="https://img.icons8.com/color/48/000000/heroku.png">
-|--|--|
+• Proficient and working experience with Core Java, Spring Boot, Micro-Services, RESTful Web Services, Spring Security, Hibernate, JPA, JavaScript, HTML5, CSS3, Bootstrap UI, jQuery, Data-Tables, Angular, TypeScript, Jenkins, Git.<br>
+• Good hands-on experience using MySQL, Oracle, and MongoDB databases. Experience on Apache Tomcat and Nginx servers.<br>
+• Hands-on experience using the cloud technologies AWS EC2, ELB, ACM, S3, and Auto Scaling.<br>
+• A quick learner with problem-solving skills, debugging skills, and a good team player.<br>
 
 ## Stats :
 
@@ -35,5 +13,4 @@ I have been working as a Software Developer for over six years since graduated (
 </a><br><br>
 <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vk46&theme=light&count_private=true&layout=compact" alt="Vinay's most used languages"/>
 </a><br><br>
-<img align="center" src = "https://activity-graph.herokuapp.com/graph?username=vk46&theme=rogue" width = 650><br><br>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=vk46.vk46)
