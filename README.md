@@ -5,7 +5,7 @@ Java Full Stack Engineer offering 7+ years of experience in demanding environmen
 • Proficient and working experience with Core Java, Spring Boot, Microservices, RESTful Web Services, Spring Security, Hibernate, JPA, JavaScript, HTML5, Bootstrap UI, jQuery, TypeScript, Angular, TypeScript, Jenkins, and Git.<br>
 • Good hands-on experience using MySQL, Oracle, and MongoDB databases.<br>
 • Good knowledge/experience on Apache Tomcat and Nginx servers.<br>
-• Hands-on experience using the cloud technologies AWS EC2, ELB, ACM, S3, and Basic exposer to Google Cloud Platform Compute Engine, BigQuery, Cloud Storage, Composer, and Dataproc.<br>
+• Hands-on experience using the cloud technologies AWS EC2, ELB, ACM, S3, and Basic exposer to GCP Compute Engine, BigQuery, Cloud Storage, Composer, and Dataproc.<br>
 • A quick learner with problem-solving skills, debugging skills, and a good team player.<br>
 
 <h2>Tech Stack</h2>
