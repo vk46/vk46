@@ -1,11 +1,11 @@
 <h2>Hi there, I am <a  href="https://vk46.github.io/" target="_blank">Vinay Kumar Palla</a></h2>
 
-Successful Java Full Stack Developer offering 6+ years of experience in demanding environments focused on producing cutting-edge designs for customer-oriented applications.
+Java Full Stack Engineer offering 7+ years of experience in demanding environments focused on producing cutting-edge designs for customer-oriented applications.
 
-• Proficient and working experience with Core Java, Spring Boot, Micro-Services, RESTful Web Services, Spring Security, Hibernate, JPA, JavaScript, HTML5, CSS3, Bootstrap UI, jQuery, Data-Tables, Angular, TypeScript, Jenkins, and Git.<br>
+• Proficient and working experience with Core Java, Spring Boot, Microservices, RESTful Web Services, Spring Security, Hibernate, JPA, JavaScript, HTML5, Bootstrap UI, jQuery, TypeScript, Angular, TypeScript, Jenkins, and Git.<br>
 • Good hands-on experience using MySQL, Oracle, and MongoDB databases.<br>
-• Good experience on Apache Tomcat and Nginx servers.<br>
-• Hands-on experience using the cloud technologies AWS EC2, ELB, ACM, S3, and Auto Scaling.<br>
+• Good knowledge/experience on Apache Tomcat and Nginx servers.<br>
+• Hands-on experience using the cloud technologies AWS EC2, ELB, ACM, S3, and Basic exposer to Google Cloud Platform Compute Engine, BigQuery, Cloud Storage, Composer, and Dataproc.<br>
 • A quick learner with problem-solving skills, debugging skills, and a good team player.<br>
 
 <h2>Tech Stack</h2>
@@ -33,9 +33,7 @@ Successful Java Full Stack Developer offering 6+ years of experience in demandin
 <p align = "center">
   
 [<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://vk46.github.io/)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/iamvk46) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/imvk46/)
-[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/iamvk46/)
   
 </p>
 
@@ -48,5 +46,4 @@ Glad to see you here! <p> <img src="https://komarev.com/ghpvc/?username=vk46" al
 
 <h2></h2>
 
-Credits: [Vinay Kumar](https://github.com/vk46) <br>
-Last Edited on: 19/04/2023
+Last Edited on: 09/02/2024
