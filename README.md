@@ -1,12 +1,14 @@
 <h2>Hi there, I am <a  href="https://vk46.github.io/" target="_blank">Vinay Kumar Palla</a></h2>
 
-Java Full Stack Engineer offering 7+ years of experience in demanding environments focused on producing cutting-edge designs for customer-oriented applications.
+Experienced Java Full Stack Engineer with over 7 years of expertise in dynamic environments, specializing in crafting innovative designs for customer-centric applications.
 
-• Proficient and working experience with Core Java, Spring Boot, Microservices, RESTful Web Services, Spring Security, Hibernate, JPA, JavaScript, HTML5, Bootstrap UI, jQuery, TypeScript, Angular, TypeScript, Jenkins, and Git.<br>
-• Good hands-on experience using MySQL, Oracle, and MongoDB databases.<br>
-• Good knowledge/experience on Apache Tomcat and Nginx servers.<br>
-• Hands-on experience using the cloud technologies AWS EC2, ELB, ACM, S3, and Basic exposer to GCP Compute Engine, BigQuery, Cloud Storage, Composer, and Dataproc.<br>
-• A quick learner with problem-solving skills, debugging skills, and a good team player.<br>
+**Key Skills:**
+
+• Proficient in Core Java, Spring Boot, Microservices, RESTful Web Services, Spring Security, Hibernate, JPA, JavaScript, HTML5, Bootstrap UI, jQuery, TypeScript, Angular, and Git.<br>
+• Extensive hands-on experience with MySQL, Oracle, and MongoDB databases.<br>
+• Knowledgeable in Apache Tomcat and Nginx servers.<br>
+• Familiarity with cloud technologies including AWS EC2, ELB, ACM, S3, with exposure to GCP Compute Engine, BigQuery, Cloud Storage, Composer, and Dataproc.<br>
+• Adept problem solver and quick learner, with strong debugging skills and a collaborative team player mindset.<br>
 
 <h2>Tech Stack</h2>
 
