@@ -1,4 +1,4 @@
-<h2>Hi there, I am <a  href="https://vk46.github.io/" target="_blank">Vinay Kumar Palla</a></h2>
+<h2>Hi there, I am <a  href="https://vk46.github.io/" target="_blank">Vinay Kumar</a></h2>
 
 Experienced Java Full Stack Engineer with over 7 years of expertise in dynamic environments, specializing in crafting innovative designs for customer-centric applications.
 
